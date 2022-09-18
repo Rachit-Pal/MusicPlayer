@@ -1,4 +1,4 @@
-const bgBody = ["#e5e7e9", "#dcf3f3", "#f8ded3", "#ffc382", "#f5eda6", "#ffcbdc", "#ff4545"];
+const bgBody = ["#E3679B", "#93857A", "#FFB965", "#FF3A3A", "#2A3263", "#8CA7CC", "#FDB857"];
 const body = document.body;
 const player = document.querySelector(".player");
 const playerHeader = player.querySelector(".player__header");
